@@ -3,4 +3,11 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+catboost
+KNeighborsRegressor
+DecisionTreeRegressor
+
+xgboost
+
+
 -e .
