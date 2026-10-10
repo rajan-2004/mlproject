@@ -8,6 +8,7 @@ KNeighborsRegressor
 DecisionTreeRegressor
 
 xgboost
+dill
 
 
 -e .
