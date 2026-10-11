@@ -6,9 +6,9 @@ scikit-learn
 catboost
 KNeighborsRegressor
 DecisionTreeRegressor
-
 xgboost
 dill
+Flask
 
 
--e .
+
